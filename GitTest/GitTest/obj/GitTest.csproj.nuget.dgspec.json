@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Högskolan Dalarna\\Mjukvarutestning\\GitTest\\GitTest\\GitTest\\GitTest.csproj": {}
+    "C:\\Users\\pont_\\OneDrive\\Dokument\\GitHub\\GMI2J3\\GitTest\\GitTest\\GitTest\\GitTest.csproj": {}
   },
   "projects": {
-    "D:\\Högskolan Dalarna\\Mjukvarutestning\\GitTest\\GitTest\\GitTest\\GitTest.csproj": {
+    "C:\\Users\\pont_\\OneDrive\\Dokument\\GitHub\\GMI2J3\\GitTest\\GitTest\\GitTest\\GitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Högskolan Dalarna\\Mjukvarutestning\\GitTest\\GitTest\\GitTest\\GitTest.csproj",
+        "projectUniqueName": "C:\\Users\\pont_\\OneDrive\\Dokument\\GitHub\\GMI2J3\\GitTest\\GitTest\\GitTest\\GitTest.csproj",
         "projectName": "GitTest",
-        "projectPath": "D:\\Högskolan Dalarna\\Mjukvarutestning\\GitTest\\GitTest\\GitTest\\GitTest.csproj",
+        "projectPath": "C:\\Users\\pont_\\OneDrive\\Dokument\\GitHub\\GMI2J3\\GitTest\\GitTest\\GitTest\\GitTest.csproj",
         "packagesPath": "C:\\Users\\pont_\\.nuget\\packages\\",
-        "outputPath": "D:\\Högskolan Dalarna\\Mjukvarutestning\\GitTest\\GitTest\\GitTest\\obj\\",
+        "outputPath": "C:\\Users\\pont_\\OneDrive\\Dokument\\GitHub\\GMI2J3\\GitTest\\GitTest\\GitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
