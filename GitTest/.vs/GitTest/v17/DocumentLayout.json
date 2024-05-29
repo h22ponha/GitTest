@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\H\u00F6gskolan Dalarna\\Mjukvarutestning\\GitTest\\GitTest\\",
+  "WorkspaceRootPath": "C:\\Users\\kenny\\OneDrive\\Dokument\\GitHub\\GitTest\\GitTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45743978-F6C2-42C7-8BF9-E16248C82A31}|GitTest\\GitTest.csproj|d:\\h\u00F6gskolan dalarna\\mjukvarutestning\\gittest\\gittest\\gittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45743978-F6C2-42C7-8BF9-E16248C82A31}|GitTest\\GitTest.csproj|c:\\users\\kenny\\onedrive\\dokument\\github\\gittest\\gittest\\gittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45743978-F6C2-42C7-8BF9-E16248C82A31}|GitTest\\GitTest.csproj|solutionrelative:gittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\H\u00F6gskolan Dalarna\\Mjukvarutestning\\GitTest\\GitTest\\GitTest\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\OneDrive\\Dokument\\GitHub\\GitTest\\GitTest\\GitTest\\Program.cs",
               "RelativeDocumentMoniker": "GitTest\\Program.cs",
-              "ToolTip": "D:\\H\u00F6gskolan Dalarna\\Mjukvarutestning\\GitTest\\GitTest\\GitTest\\Program.cs",
+              "ToolTip": "C:\\Users\\kenny\\OneDrive\\Dokument\\GitHub\\GitTest\\GitTest\\GitTest\\Program.cs",
               "RelativeToolTip": "GitTest\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T15:03:10.689Z",
               "EditorCaption": ""
