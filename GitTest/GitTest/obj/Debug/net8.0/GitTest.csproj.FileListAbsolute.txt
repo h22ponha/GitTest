@@ -1,0 +1,15 @@
+c:\Users\pont_\OneDrive\Dokument\GitHub\GMI2J3\GitTest\GitTest\GitTest\bin\Debug\net8.0\GitTest.exe
+c:\Users\pont_\OneDrive\Dokument\GitHub\GMI2J3\GitTest\GitTest\GitTest\bin\Debug\net8.0\GitTest.deps.json
+c:\Users\pont_\OneDrive\Dokument\GitHub\GMI2J3\GitTest\GitTest\GitTest\bin\Debug\net8.0\GitTest.runtimeconfig.json
+c:\Users\pont_\OneDrive\Dokument\GitHub\GMI2J3\GitTest\GitTest\GitTest\bin\Debug\net8.0\GitTest.dll
+c:\Users\pont_\OneDrive\Dokument\GitHub\GMI2J3\GitTest\GitTest\GitTest\bin\Debug\net8.0\GitTest.pdb
+c:\Users\pont_\OneDrive\Dokument\GitHub\GMI2J3\GitTest\GitTest\GitTest\obj\Debug\net8.0\GitTest.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pont_\OneDrive\Dokument\GitHub\GMI2J3\GitTest\GitTest\GitTest\obj\Debug\net8.0\GitTest.AssemblyInfoInputs.cache
+c:\Users\pont_\OneDrive\Dokument\GitHub\GMI2J3\GitTest\GitTest\GitTest\obj\Debug\net8.0\GitTest.AssemblyInfo.cs
+c:\Users\pont_\OneDrive\Dokument\GitHub\GMI2J3\GitTest\GitTest\GitTest\obj\Debug\net8.0\GitTest.csproj.CoreCompileInputs.cache
+c:\Users\pont_\OneDrive\Dokument\GitHub\GMI2J3\GitTest\GitTest\GitTest\obj\Debug\net8.0\GitTest.sourcelink.json
+c:\Users\pont_\OneDrive\Dokument\GitHub\GMI2J3\GitTest\GitTest\GitTest\obj\Debug\net8.0\GitTest.dll
+c:\Users\pont_\OneDrive\Dokument\GitHub\GMI2J3\GitTest\GitTest\GitTest\obj\Debug\net8.0\refint\GitTest.dll
+c:\Users\pont_\OneDrive\Dokument\GitHub\GMI2J3\GitTest\GitTest\GitTest\obj\Debug\net8.0\GitTest.pdb
+c:\Users\pont_\OneDrive\Dokument\GitHub\GMI2J3\GitTest\GitTest\GitTest\obj\Debug\net8.0\GitTest.genruntimeconfig.cache
+c:\Users\pont_\OneDrive\Dokument\GitHub\GMI2J3\GitTest\GitTest\GitTest\obj\Debug\net8.0\ref\GitTest.dll
